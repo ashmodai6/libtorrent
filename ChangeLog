@@ -1,3 +1,5 @@
+	* make UPnP port-mapping lease duration configurable
+
 1.2.5 release
 
 	* announce port=1 instead of port=0, when there is no listen port
